@@ -1,0 +1,13 @@
+#world{
+    width:200px;
+    height:300px;
+    border:5px solid greenyellow;
+    border-radius: 20px;
+}
+body{
+    text-align: center;
+}
+#s{
+    width:800px;
+    height:650px;
+}
